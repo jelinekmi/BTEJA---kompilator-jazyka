@@ -1,0 +1,10 @@
+var age: int = 25;
+var category: string;
+
+if (age < 13) {
+    category = "Child";
+} else if (age < 20) {
+    category = "Teenager";
+} else {
+    category = "Adult";
+}

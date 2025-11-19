@@ -1,0 +1,14 @@
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\bin\Debug\net7.0\Projekt_Jelinek.exe
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\bin\Debug\net7.0\Projekt_Jelinek.deps.json
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\bin\Debug\net7.0\Projekt_Jelinek.runtimeconfig.json
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\bin\Debug\net7.0\Projekt_Jelinek.dll
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\bin\Debug\net7.0\Projekt_Jelinek.pdb
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.AssemblyInfoInputs.cache
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.AssemblyInfo.cs
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.csproj.CoreCompileInputs.cache
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.dll
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\refint\Projekt_Jelinek.dll
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.pdb
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\Projekt_Jelinek.genruntimeconfig.cache
+C:\Users\misaj\source\repos\projekt\Projekt_Jelinek\Projekt_Jelinek\obj\Debug\net7.0\ref\Projekt_Jelinek.dll

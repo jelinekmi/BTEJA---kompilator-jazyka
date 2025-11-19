@@ -1,0 +1,6 @@
+var array1: [int, int, int] = [1, 2, 3];
+ var array2: [int];
+array2 = array1;
+var value: int = array2[1];
+
+
